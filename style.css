@@ -1,0 +1,36 @@
+*{
+    margin: 0xp;
+    padding: 0px;
+    box-sizing: border-box;
+}
+nav{
+    display: flex;  
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 10px ;
+}
+ul{
+    display: flex;
+    gap: 30px;
+    list-style-type: none;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.header-block{
+display: flex;
+}
+
+.header-block img{
+width: 720px;
+}
+.header-text p{
+    font-size: 420px;
+}
+.header-text{
+   width: 800px;
+   margin: 10px auto;
+
+}
